@@ -1,0 +1,20 @@
+# Link list generator
+
+site_title: 'Fepi Links'
+
+site_url:
+  devops:
+    - name: 'ADS example 1'
+      url: 'https://www.example.com/abc'
+    - name: 'SI example 2'
+      url: 'https://www.example.com/abc'
+    - name: 'PESSOAL example 3'
+      url: 'https://www.example.com/abc'
+  observablity:
+    - name: 'OBSV example 1'
+      url: 'https://www.example.com/abc'
+    - name: 'OBSV example 2'
+      url: 'https://www.example.com/abc'
+  Eu:
+    - name: 'Meu site'
+      url: 'https://github/Cauan-G'
